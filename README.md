@@ -149,10 +149,16 @@ Code5
 ├── README.md
 
 ## Screenshot of Mobile App Home Screen and Settings Screen in Light & Dark Mode
-![Screenshot1](https://github.com/asareprosper143/rn-assignment5-11117173/!![Screenshot3](https://github.com/asareprosper143/rn-assignment5-11117173/assets/151519158/82651fba-99ce-4adf-9d3a-60a745cab625)
-[Screenshot2](https://github.com/asareprosper143/rn-assignment5-11117173/assets/151519158/6c2a67a6-098f-4bc7-82a2-b20b2c064179)
-assets/151519158/01bfe1fc-1c6f-4291-b1e1-3ec91c01e6db)
-![Uploading Screenshot3.jpg…]()
-![Screenshot4](https://github.com/asareprosper143/rn-assignment5-11117173/assets/151519158/d5b41945-41ae-4c97-9b65-fd1ff56af2da)
+
+![Screenshot1](https://github.com/asareprosper143/rn-assignment5-11117173/assets/151519158/e9250de4-d8a8-483f-91ca-510e7572b5a9)
+
+![Screenshot2](https://github.com/asareprosper143/rn-assignment5-11117173/assets/151519158/1cfad3c0-464d-442a-8781-c2ffa7b1ad45)
+
+![Screenshot3](https://github.com/asareprosper143/rn-assignment5-11117173/assets/151519158/11320b4e-b542-41d4-ad83-a3445e7d9df9)
+
+![Screenshot4](https://github.com/asareprosper143/rn-assignment5-11117173/assets/151519158/00f4399b-6c95-4e66-be75-95df5f18344d)
+
+
+
 
 
