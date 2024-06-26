@@ -10,7 +10,7 @@ This is a React Native project that includes a settings screen with a toggle for
 
 ## Setup
 
-### Prerequisites
+### Pre-conditions
 
 - Node.js
 - npm or yarn
