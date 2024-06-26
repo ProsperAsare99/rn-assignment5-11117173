@@ -22,7 +22,7 @@ This is a React Native project that includes a settings screen with a toggle for
 
     sh
     git clone https://github.com/asareprosper143/(https://github.com/asareprosper143/rn-assignment5-11117173)
-    cd your-repo-name
+
     
 
 2. Install the dependencies:
