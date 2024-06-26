@@ -21,7 +21,7 @@ This is a React Native project that includes a settings screen with a toggle for
 1. Clone the repository:
 
     sh
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/asareprosper143/(https://github.com/asareprosper143/rn-assignment5-11117173)
     cd your-repo-name
     
 
