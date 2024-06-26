@@ -150,10 +150,15 @@ Code5
 
 ## Screenshot of Mobile App Home Screen and Settings Screen in Light & Dark Mode
 
-![Screenshot1]
-![Screenshot2]
-![Screenshot3]
-![Screenshot4]
+![WhatsApp Image 2024-06-26 at 03 28 15_e46e2d2a](https://github.com/asareprosper143/rn-assignment5-11117173/assets/151519158/2e72c4ba-e8bf-414b-9bd2-b7efa226e315)
+
+![WhatsApp Image 2024-06-26 at 03 28 19_a5e730ca](https://github.com/asareprosper143/rn-assignment5-11117173/assets/151519158/d93eda64-66a1-4635-8fd7-4f731d093f7d)
+
+![WhatsApp Image 2024-06-26 at 03 28 23_7f08c1ee](https://github.com/asareprosper143/rn-assignment5-11117173/assets/151519158/e3542d67-95a6-4b60-919c-ec5175a9bca1)
+
+![WhatsApp Image 2024-06-26 at 03 28 27_57c32d47](https://github.com/asareprosper143/rn-assignment5-11117173/assets/151519158/d5a9b90c-e3ef-4978-8f5f-54c26d3a3b45)
+
+
 
 
 
