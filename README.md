@@ -150,13 +150,10 @@ Code5
 
 ## Screenshot of Mobile App Home Screen and Settings Screen in Light & Dark Mode
 
-![Screenshot1](https://github.com/asareprosper143/rn-assignment5-11117173/assets/151519158/e9250de4-d8a8-483f-91ca-510e7572b5a9)
-
-![Screenshot2](https://github.com/asareprosper143/rn-assignment5-11117173/assets/151519158/1cfad3c0-464d-442a-8781-c2ffa7b1ad45)
-
-![Screenshot3](https://github.com/asareprosper143/rn-assignment5-11117173/assets/151519158/11320b4e-b542-41d4-ad83-a3445e7d9df9)
-
-![Screenshot4](https://github.com/asareprosper143/rn-assignment5-11117173/assets/151519158/00f4399b-6c95-4e66-be75-95df5f18344d)
+![Screenshot1]
+![Screenshot2]
+![Screenshot3]
+![Screenshot4]
 
 
 
