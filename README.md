@@ -147,3 +147,12 @@ Code5
 ├── ├─ babel.config.js
 │   ├─ packagelock.json
 ├── README.md
+
+## Screenshot of Mobile App Home Screen and Settings Screen in Light & Dark Mode
+![Screenshot1](https://github.com/asareprosper143/rn-assignment5-11117173/!![Screenshot3](https://github.com/asareprosper143/rn-assignment5-11117173/assets/151519158/82651fba-99ce-4adf-9d3a-60a745cab625)
+[Screenshot2](https://github.com/asareprosper143/rn-assignment5-11117173/assets/151519158/6c2a67a6-098f-4bc7-82a2-b20b2c064179)
+assets/151519158/01bfe1fc-1c6f-4291-b1e1-3ec91c01e6db)
+![Uploading Screenshot3.jpg…]()
+![Screenshot4](https://github.com/asareprosper143/rn-assignment5-11117173/assets/151519158/d5b41945-41ae-4c97-9b65-fd1ff56af2da)
+
+
